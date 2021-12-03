@@ -31,7 +31,7 @@ const Header = () => {
                                         text-gray-900 ml-14 font-bold cursor-pointer hover:border-b-2 hover:border-pink-600">codepen</span></a>
           <a href="https://github.com/whathebea" target={"_blank"}><span className="md:float-right mt-2 align-middle transition duration-200 text-xl 
                                         text-gray-900 ml-14 font-bold cursor-pointer hover:border-b-2 hover:border-pink-600">github</span></a>
-          <a href="https://www.aedin.com/in/beatriz-gracia-dos-santos-2762bb21b/" target={"_blank"}><span className="md:float-right mt-2 align-middle transition duration-200 text-xl 
+          <a href="https://www.linkedin.com/in/beatriz-gracia-dos-santos-2762bb21b/" target={"_blank"}><span className="md:float-right mt-2 align-middle transition duration-200 text-xl 
                                         text-gray-900 ml-14 font-bold cursor-pointer hover:border-b-2 hover:border-pink-600">linkedin</span></a>
 
         </div>
