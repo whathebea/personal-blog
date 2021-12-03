@@ -1,13 +1,6 @@
 # Blog pessoal 
 
 
-![GitHub repo size]
-![GitHub language count]
-![GitHub forks]
-![Bitbucket open issues]
-![Bitbucket open pull requests]
-
-
 > Blog pessoal usando React, NextJS, TailwindCSS, graphQL e GraphCMS
 
 
